@@ -47,7 +47,7 @@
     "mysql2": "^3.6.2",
     "nestjs-form-data": "^1.9.1",
     "node-mocks-http": "^1.14.1",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
     "sqlite3": "^5.1.6",
     "testcontainers": "^10.2.2",
